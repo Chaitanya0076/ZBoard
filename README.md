@@ -24,8 +24,8 @@ npm run dev
 ```
 - The project is built using **NextJs** tech stack.
 - Used **shadcn ui** library to get use of UI components
-- Clerk for user session management.
-- Prisma as ORM and Postgres as database.
+- **Clerk** for user session management.
+- **Prisma** as ORM and **Postgres** as database.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
